@@ -1,0 +1,9 @@
+C:\Users\ben\Desktop\3ndYr_Exam2\MONHOC\LTM\LTM_TH_B8_270418\LTM_TH_B8_270418\bin\Debug\LTM_TH_B8_270418.exe.config
+C:\Users\ben\Desktop\3ndYr_Exam2\MONHOC\LTM\LTM_TH_B8_270418\LTM_TH_B8_270418\obj\Debug\LTM_TH_B8_270418.csprojResolveAssemblyReference.cache
+C:\Users\ben\Desktop\3ndYr_Exam2\MONHOC\LTM\LTM_TH_B8_270418\LTM_TH_B8_270418\obj\Debug\LTM_TH_B8_270418.Form1.resources
+C:\Users\ben\Desktop\3ndYr_Exam2\MONHOC\LTM\LTM_TH_B8_270418\LTM_TH_B8_270418\obj\Debug\LTM_TH_B8_270418.Properties.Resources.resources
+C:\Users\ben\Desktop\3ndYr_Exam2\MONHOC\LTM\LTM_TH_B8_270418\LTM_TH_B8_270418\obj\Debug\LTM_TH_B8_270418.csproj.GenerateResource.Cache
+C:\Users\ben\Desktop\3ndYr_Exam2\MONHOC\LTM\LTM_TH_B8_270418\LTM_TH_B8_270418\bin\Debug\LTM_TH_B8_270418.exe
+C:\Users\ben\Desktop\3ndYr_Exam2\MONHOC\LTM\LTM_TH_B8_270418\LTM_TH_B8_270418\bin\Debug\LTM_TH_B8_270418.pdb
+C:\Users\ben\Desktop\3ndYr_Exam2\MONHOC\LTM\LTM_TH_B8_270418\LTM_TH_B8_270418\obj\Debug\LTM_TH_B8_270418.exe
+C:\Users\ben\Desktop\3ndYr_Exam2\MONHOC\LTM\LTM_TH_B8_270418\LTM_TH_B8_270418\obj\Debug\LTM_TH_B8_270418.pdb
